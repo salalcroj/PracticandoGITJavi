@@ -1,2 +1,2 @@
 # PracticandoGIT
-Practicar con Salvador de la práctica2
+Este repositorio lo ha creado javcamgil
